@@ -1,5 +1,5 @@
 window.PorfolioConfig = {
-  name: 'Naveenraj',
+  name: 'Naveenraj K',
   jobTitle: 'SOFTWARE DEVELOPER',
   jobDescription: 'Vice President @UAV-DROBOTICS | Software Developer | Flutter | Docker | Drones & Robotics | Graphic Designer | Pre-final Year Student at Sathyabama University',
   skills: [
