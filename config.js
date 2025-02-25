@@ -29,7 +29,7 @@ window.PorfolioConfig = {
     {
       name: 'STONKS (STOCK QUOTATION MOBILE APPLICATION)',
       link: 'https://github.com/NAVEENRAJ2004/STOCK-QUOTE-APP',
-      description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
+      description: 'Stonks is a stock market quotation app built using Flutter for a smooth and responsive cross-platform experience. It integrates live stock market APIs to provide real-time stock price updates, historical data, and market trends. The app features an intuitive UI/UX, supports dark mode, and includes interactive charts for visualizing stock performance. It leverages RESTful API integration for fetching stock data and Firebase for authentication and cloud storage. Optimized for performance, Stonks ensures seamless navigation and real-time updates, making it a powerful tool for market enthusiasts.'
     }
   ],
   contacts: {
